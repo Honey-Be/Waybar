@@ -13,6 +13,7 @@
 - Network
 - Bluetooth
 - Pulseaudio
+- JACK Audio Connection Kit
 - Disk
 - Memory
 - Cpu load average
